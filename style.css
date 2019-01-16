@@ -15,8 +15,8 @@ body {
   width: 20%;
   margin-left: 40%;
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #5cb85c;
+  background-color: #;
+  border-color: # #595959;
   display: inline-block;
   font-weight: normal;
   line-height: 1.25;
@@ -39,8 +39,8 @@ body {
 
 #btn:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #595959;
+  border-color: #595959;
   cursor: pointer;
 }
 
@@ -51,9 +51,9 @@ body {
 
 #btn:active {
   color: #fff;
-  background-color: #449d44;
+  background-color: #595959;
   background-image: none;
-  border-color: #419641;
+  border-color: #595959;
 }
 
 #profileImg {
@@ -76,7 +76,7 @@ body {
 #text {
   text-align: center;
   background-color: rgba(50, 50, 50, 1);
-  color: #449d44;
+  color: #000000;
 }
 
 li {
