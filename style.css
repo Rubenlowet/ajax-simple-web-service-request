@@ -14,7 +14,7 @@ body {
   position: relative;
   width: 20%;
   margin-left: 40%;
-  color: #fff;
+  color: #000000;
   background-color: #;
   border-color: # #595959;
   display: inline-block;
@@ -50,7 +50,7 @@ body {
 }
 
 #btn:active {
-  color: #fff;
+  color: #000000;
   background-color: #595959;
   background-image: none;
   border-color: #595959;
@@ -69,7 +69,7 @@ body {
 #title {
   text-align: center;
   height: 50px;
-  background-color: rgba(150, 250, 150, 1);
+  background-color: #fff;
   margin-bottom: 10px;
 }
 
